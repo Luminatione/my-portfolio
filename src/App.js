@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent } from "react-ui-cards";
 import { motion } from "framer-motion";
 
 const projects = [
